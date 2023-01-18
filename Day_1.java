@@ -2,7 +2,7 @@
 
 //프로젝트의 이름(@@.java 파일의 @@ 과 클래스명이 동일해야함)
 
-public class 1_Main {
+public class Day_1 {
     public static void main(String[] args) {
         System.out.println(6); //Int 6
         System.out.println("six"); //String
