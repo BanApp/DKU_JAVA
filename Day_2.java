@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 //입출력
-public class 2_Main {
+public class Day_2 {
     public static void main(String[] args) {
 
         //배열 선언법 1
