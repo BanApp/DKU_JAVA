@@ -1,6 +1,6 @@
-import java.util.Scanner;
-
 //입출력, 배열, 반복문
+
+import java.util.Scanner;
 
 //입출력
 public class 2_Main {
