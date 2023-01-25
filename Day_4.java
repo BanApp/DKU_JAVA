@@ -3,7 +3,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-//클래스,메소드
+//클래스, 메소드, 인스턴스
 public class Day_4 {
     public static String glob = "I am Global!"; //전역 변수 선언
 
