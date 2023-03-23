@@ -74,9 +74,5 @@ public class Exchanger {
 
         else //예외 처리
             return "환전 대상 화폐의 종류가 정확하지 않습니다. (1: USD, 2: YEN, 3: EURO)에서 선택해주세요.";
-
-
-
-
     }
 }
