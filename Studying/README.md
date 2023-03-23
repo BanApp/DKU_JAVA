@@ -1,4 +1,4 @@
-# JAVA_Study
+# JAVA_Studying
 
 ## 더 이상 미룰 수 없다..! 자바 문법 공부
 
